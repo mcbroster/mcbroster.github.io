@@ -1,9 +1,11 @@
 #mainWindow{
     background-color: #008080;
     height: 90%;
+    width: 100%;
 }
 
 #taskbar{
     background-color: #C0C0C0;
-    height: 10%
+    height: 10%;
+    width: 100%;
 }
