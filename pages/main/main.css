@@ -10,13 +10,13 @@ body{
 
 #mainWindow{
     background-color: #008080;
-    height: 100vh - 100px;
+    height: calc(100% - 50px);
     width: 100%;
 }
 
 #taskBar{
     background-color: #C0C0C0;
-    height: 100px;
+    height: 50px;
     width: 100%;
     border-top: solid 2px #F0E9F0;
 }
