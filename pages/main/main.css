@@ -3,6 +3,11 @@ html{
     width: 100vw;
 }
 
+body{
+    height: 100vh;
+    margin: 0px;
+}
+
 #mainWindow{
     background-color: #008080;
     height: 90%;
