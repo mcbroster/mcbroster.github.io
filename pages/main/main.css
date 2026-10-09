@@ -10,12 +10,13 @@ body{
 
 #mainWindow{
     background-color: #008080;
-    height: 90%;
+    height: 95%;
     width: 100%;
 }
 
 #taskBar{
     background-color: #C0C0C0;
-    height: 10%;
+    height: 5%;
     width: 100%;
+    border-top: solid 2px #F0E9F0;
 }
