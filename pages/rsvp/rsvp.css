@@ -6,12 +6,12 @@ html{
 body{
     height: 100vh;
     margin: 0px;
-    background-color: #44100f;
+    background-color: #21170c;
 }
 
 #boothBg{
-    background-color: #C0C0C0;
-    height: 50px;
-    width: 100%;
-    border-top: solid 2px #F0E9F0;
+    background-color: #72360F;
+    height: 100%;
+    width: 40%;
+    align-self: center;
 }
